@@ -6,5 +6,29 @@
       "lovelive",
       "liella"
     ]
+  },
+  {
+    "name": "美竹蘭",
+    "type": "character",
+    "groups": [
+      "bangdream",
+      "afterglow"
+    ]
+  },
+  {
+    "name": "千春",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "millsage"
+    ]
+  },
+  {
+    "name": "黒沢ともよ",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "hello-happy-world"
+    ]
   }
 ]

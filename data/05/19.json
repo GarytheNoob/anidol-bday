@@ -6,5 +6,29 @@
       "lovelive",
       "mu-s"
     ]
+  },
+  {
+    "name": "山吹沙綾",
+    "type": "character",
+    "groups": [
+      "bangdream",
+      "popipa"
+    ]
+  },
+  {
+    "name": "岡田夢以",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "ave-mujica"
+    ]
+  },
+  {
+    "name": "菱川花菜",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "dumb-rock"
+    ]
   }
 ]

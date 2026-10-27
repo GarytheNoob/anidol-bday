@@ -6,5 +6,21 @@
       "lovelive",
       "nijigasaki"
     ]
+  },
+  {
+    "name": "桐ヶ谷透子",
+    "type": "character",
+    "groups": [
+      "bangdream",
+      "morfonica"
+    ]
+  },
+  {
+    "name": "金元寿子",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "afterglow"
+    ]
   }
 ]

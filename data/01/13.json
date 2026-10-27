@@ -6,5 +6,21 @@
       "lovelive",
       "hasunosora"
     ]
+  },
+  {
+    "name": "Raychell",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "raise-a-suilen"
+    ]
+  },
+  {
+    "name": "三澤紗千香",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "afterglow"
+    ]
   }
 ]

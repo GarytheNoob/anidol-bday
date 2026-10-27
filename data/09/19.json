@@ -14,5 +14,13 @@
       "lovelive",
       "ikizulive"
     ]
+  },
+  {
+    "name": "藤都子",
+    "type": "character",
+    "groups": [
+      "bangdream",
+      "yumemita"
+    ]
   }
 ]

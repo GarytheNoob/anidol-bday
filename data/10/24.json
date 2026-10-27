@@ -4,7 +4,17 @@
     "type": "seiyuu",
     "groups": [
       "lovelive",
-      "hasunosora"
+      "hasunosora",
+      "bangdream",
+      "dumb-rock"
+    ]
+  },
+  {
+    "name": "櫻川めぐ",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "roselia"
     ]
   }
 ]

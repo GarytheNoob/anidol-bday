@@ -14,5 +14,13 @@
       "lovelive",
       "aqours"
     ]
+  },
+  {
+    "name": "弦巻こころ",
+    "type": "character",
+    "groups": [
+      "bangdream",
+      "hello-happy-world"
+    ]
   }
 ]

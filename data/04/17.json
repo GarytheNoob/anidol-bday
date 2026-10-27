@@ -14,5 +14,21 @@
       "lovelive",
       "nijigasaki"
     ]
+  },
+  {
+    "name": "宮永ののか",
+    "type": "character",
+    "groups": [
+      "bangdream",
+      "yumemita"
+    ]
+  },
+  {
+    "name": "直田姫奈",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "morfonica"
+    ]
   }
 ]

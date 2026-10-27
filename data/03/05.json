@@ -6,5 +6,29 @@
       "lovelive",
       "nijigasaki"
     ]
+  },
+  {
+    "name": "四宮寧月",
+    "type": "character",
+    "groups": [
+      "bangdream",
+      "dumb-rock"
+    ]
+  },
+  {
+    "name": "涼泉桜花",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "dumb-rock"
+    ]
+  },
+  {
+    "name": "遠野ひかる",
+    "type": "seiyuu",
+    "groups": [
+      "bangdream",
+      "dumb-rock"
+    ]
   }
 ]

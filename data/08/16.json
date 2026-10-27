@@ -6,5 +6,13 @@
       "lovelive",
       "aqours"
     ]
+  },
+  {
+    "name": "仲町あられ",
+    "type": "character",
+    "groups": [
+      "bangdream",
+      "yumemita"
+    ]
   }
 ]
